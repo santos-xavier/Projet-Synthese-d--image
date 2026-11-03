@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1793327557 source:/home/vboxuser/Projet_Araignee_LAWSON_SENOU/Code_Source/araignee.cpp
+	"araignee.h"
+	<GL/glut.h>
+	<cmath>
+
+1793327557 /home/vboxuser/Projet_Araignee_LAWSON_SENOU/Code_Source/araignee.h
+
+1793327557 source:/home/vboxuser/Projet_Araignee_LAWSON_SENOU/Code_Source/main.cpp
+	<GL/glut.h>
+	<cstdlib>
+	"araignee.h"
+
