@@ -11,3 +11,19 @@
 	<cstdlib>
 	"araignee.h"
 
+1793988592 source:c:\users\senou\desktop\projet synthèse d'image\projet_araignee_lawson_senou\projet_araignee_lawson_senou\code_source\araignee.cpp
+	"araignee.h"
+	<GL/glut.h>
+	<cmath>
+	"araignee.h"
+	<GL/glut.h>
+	<GL/glu.h>
+	<cmath>
+
+1793989874 c:\users\senou\desktop\projet synthèse d'image\projet_araignee_lawson_senou\projet_araignee_lawson_senou\code_source\araignee.h
+
+1793988653 source:c:\users\senou\desktop\projet synthèse d'image\projet_araignee_lawson_senou\projet_araignee_lawson_senou\code_source\main.cpp
+	<GL/glut.h>
+	<cstdlib>
+	"araignee.h"
+

@@ -14,6 +14,7 @@ void redimensionner(int largeur, int hauteur);
 void initialiserLumieres();
 
 int main(int argc, char **argv) {
+
     glutInit(&argc, argv);
     glutInitDisplayMode(GLUT_RGB | GLUT_DOUBLE | GLUT_DEPTH);
     glutInitWindowSize(800, 800);
@@ -23,6 +24,7 @@ int main(int argc, char **argv) {
     glEnable(GL_DEPTH_TEST);
     glEnable(GL_LIGHTING);
     glEnable(GL_LIGHT0);
+    glEnable(GL_NORMALIZE);
 
     initialiserLumieres();
 
@@ -31,7 +33,6 @@ int main(int argc, char **argv) {
     glutKeyboardFunc(clavier);
     glutSpecialFunc(clavierSpecial);
     glutReshapeFunc(redimensionner);
-
     glutMainLoop();
     return 0;
 }

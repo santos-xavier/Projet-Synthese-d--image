@@ -15,9 +15,10 @@
 					<Add option="-g" />
 				</Compiler>
 				<Linker>
-					<Add library="GL" />
-					<Add library="GLU" />
-					<Add library="glut" />
+					<Add library="opengl32" />
+					<Add library="glu32" />
+					<Add library="freeglut" />
+					<Add library="jpeg" />
 				</Linker>
 			</Target>
 			<Target title="Release">
@@ -36,6 +37,12 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Linker>
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="freeglut" />
+			<Add library="jpeg" />
+		</Linker>
 		<Unit filename="araignee.cpp" />
 		<Unit filename="araignee.h" />
 		<Unit filename="main.cpp" />
