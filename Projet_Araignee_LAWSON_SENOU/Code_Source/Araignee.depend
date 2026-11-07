@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1793764279 source:/home/vboxuser/Projet_Araignee_LAWSON_SENOU/Code_Source/araignee.cpp
+	"araignee.h"
+	<GL/glut.h>
+	<cmath>
+
+1793764800 /home/vboxuser/Projet_Araignee_LAWSON_SENOU/Code_Source/araignee.h
+
+1793327557 source:/home/vboxuser/Projet_Araignee_LAWSON_SENOU/Code_Source/main.cpp
+	<GL/glut.h>
+	<cstdlib>
+	"araignee.h"
+
+1793766188 source:c:\users\administrateur\downloads\projet_araignee_lawson_senou (2)\projet_araignee_lawson_senou\code_source\araignee.cpp
+	"araignee.h"
+	<GL/glut.h>
+	<cmath>
+
+1793764800 c:\users\administrateur\downloads\projet_araignee_lawson_senou (2)\projet_araignee_lawson_senou\code_source\araignee.h
+
+1793327557 source:c:\users\administrateur\downloads\projet_araignee_lawson_senou (2)\projet_araignee_lawson_senou\code_source\main.cpp
+	<GL/glut.h>
+	<cstdlib>
+	"araignee.h"
+
+1763381584 c:\msys64\mingw64\include\gl\glut.h
+	"freeglut_std.h"
+
+1763381584 c:\msys64\mingw64\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1793830090 source:c:\users\administrateur\downloads\projet_araignee_lawson_senou\code_source\araignee.cpp
+	"araignee.h"
+	<GL/glut.h>
+	<cmath>
+
+1793829947 c:\users\administrateur\downloads\projet_araignee_lawson_senou\code_source\araignee.h
+
+1793327557 source:c:\users\administrateur\downloads\projet_araignee_lawson_senou\code_source\main.cpp
+	<GL/glut.h>
+	<cstdlib>
+	"araignee.h"
+
